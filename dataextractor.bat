@@ -1,2 +1,2 @@
-@py C:\Users\klimo\MyPythonScripts\dataextractor.py %*
+@py C:\Users\klimo\MyPythonScripts\data-extractor\data-extractor.py %*
 @pause

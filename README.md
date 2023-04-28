@@ -1,6 +1,5 @@
 # Data Extractor
 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   ## Description 
@@ -10,9 +9,8 @@
 
   - Writing regex code
   - Writing for loops
-  - Installing and using third party modules such as pyperclip
+  - Installing and using third party libraries such as pyperclip
   - Writing batch files
-
 
 ## Usage
 To use the application:
